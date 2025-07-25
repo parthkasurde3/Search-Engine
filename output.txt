@@ -1,0 +1,146 @@
+Search Engine Output Log - By Parth
+
+Query: FA Cup
+Matches for 'fa' (Total Hits: 440):
+  FA Cup - Wikipedia.html: 253 time(s)
+  Arsenal F.C. - Wikipedia.html: 61 time(s)
+  Premier League - Wikipedia.html: 40 time(s)
+  Arsène Wenger - Wikipedia.html: 38 time(s)
+  Arsenal W.F.C. - Wikipedia.html: 34 time(s)
+  Football - Wikipedia.html: 13 time(s)
+  UEFA Champions League - Wikipedia.html: 1 time(s)
+
+Matches for 'cup' (Total Hits: 709):
+  FA Cup - Wikipedia.html: 282 time(s)
+  UEFA Champions League - Wikipedia.html: 158 time(s)
+  Arsenal F.C. - Wikipedia.html: 103 time(s)
+  Premier League - Wikipedia.html: 67 time(s)
+  Arsène Wenger - Wikipedia.html: 60 time(s)
+  Arsenal W.F.C. - Wikipedia.html: 28 time(s)
+  Football - Wikipedia.html: 11 time(s)
+
+Query: parth
+No matches for 'parth'
+
+Query: kasaurde
+No matches for 'kasaurde'
+
+Query: the
+No matches for 'the'
+
+Query: league
+Matches for 'league' (Total Hits: 1488):
+  Premier League - Wikipedia.html: 657 time(s)
+  UEFA Champions League - Wikipedia.html: 244 time(s)
+  FA Cup - Wikipedia.html: 191 time(s)
+  Arsène Wenger - Wikipedia.html: 145 time(s)
+  Arsenal F.C. - Wikipedia.html: 132 time(s)
+  Arsenal W.F.C. - Wikipedia.html: 62 time(s)
+  Football - Wikipedia.html: 57 time(s)
+
+Query: your
+No matches for 'your'
+
+Query: you'
+No matches for 'you''
+
+Query: why
+No matches for 'why'
+
+Query: he
+No matches for 'he'
+
+Query: she
+No matches for 'she'
+
+Query: under
+No matches for 'under'
+
+Query: nuggeta
+No matches for 'nuggeta'
+
+Query: nuggets'
+No matches for 'nuggets''
+
+Query: news
+Matches for 'news' (Total Hits: 56):
+  Premier League - Wikipedia.html: 17 time(s)
+  FA Cup - Wikipedia.html: 14 time(s)
+  Arsène Wenger - Wikipedia.html: 11 time(s)
+  Arsenal F.C. - Wikipedia.html: 6 time(s)
+  Arsenal W.F.C. - Wikipedia.html: 4 time(s)
+  Football - Wikipedia.html: 3 time(s)
+  UEFA Champions League - Wikipedia.html: 1 time(s)
+
+Query: ball
+Matches for 'ball' (Total Hits: 166):
+  Football - Wikipedia.html: 149 time(s)
+  Arsenal F.C. - Wikipedia.html: 5 time(s)
+  Arsène Wenger - Wikipedia.html: 4 time(s)
+  Premier League - Wikipedia.html: 4 time(s)
+  UEFA Champions League - Wikipedia.html: 2 time(s)
+  Arsenal W.F.C. - Wikipedia.html: 1 time(s)
+  FA Cup - Wikipedia.html: 1 time(s)
+
+Query: wenger
+Matches for 'wenger' (Total Hits: 556):
+  Arsène Wenger - Wikipedia.html: 523 time(s)
+  Arsenal F.C. - Wikipedia.html: 22 time(s)
+  FA Cup - Wikipedia.html: 4 time(s)
+  Premier League - Wikipedia.html: 4 time(s)
+  UEFA Champions League - Wikipedia.html: 3 time(s)
+
+Query: will
+No matches for 'will'
+
+Query: winm'
+No matches for 'winm''
+
+Query: win
+Matches for 'win' (Total Hits: 92):
+  Arsène Wenger - Wikipedia.html: 27 time(s)
+  Arsenal F.C. - Wikipedia.html: 16 time(s)
+  FA Cup - Wikipedia.html: 15 time(s)
+  Premier League - Wikipedia.html: 14 time(s)
+  Arsenal W.F.C. - Wikipedia.html: 12 time(s)
+  UEFA Champions League - Wikipedia.html: 7 time(s)
+  Football - Wikipedia.html: 1 time(s)
+
+Query: parth win league Football cup
+Matches for 'league' (Total Hits: 1488):
+  Premier League - Wikipedia.html: 657 time(s)
+  UEFA Champions League - Wikipedia.html: 244 time(s)
+  FA Cup - Wikipedia.html: 191 time(s)
+  Arsène Wenger - Wikipedia.html: 145 time(s)
+  Arsenal F.C. - Wikipedia.html: 132 time(s)
+  Arsenal W.F.C. - Wikipedia.html: 62 time(s)
+  Football - Wikipedia.html: 57 time(s)
+
+Matches for 'win' (Total Hits: 92):
+  Arsène Wenger - Wikipedia.html: 27 time(s)
+  Arsenal F.C. - Wikipedia.html: 16 time(s)
+  FA Cup - Wikipedia.html: 15 time(s)
+  Premier League - Wikipedia.html: 14 time(s)
+  Arsenal W.F.C. - Wikipedia.html: 12 time(s)
+  UEFA Champions League - Wikipedia.html: 7 time(s)
+  Football - Wikipedia.html: 1 time(s)
+
+Matches for 'cup' (Total Hits: 709):
+  FA Cup - Wikipedia.html: 282 time(s)
+  UEFA Champions League - Wikipedia.html: 158 time(s)
+  Arsenal F.C. - Wikipedia.html: 103 time(s)
+  Premier League - Wikipedia.html: 67 time(s)
+  Arsène Wenger - Wikipedia.html: 60 time(s)
+  Arsenal W.F.C. - Wikipedia.html: 28 time(s)
+  Football - Wikipedia.html: 11 time(s)
+
+No matches for 'parth'
+
+Matches for 'football' (Total Hits: 1112):
+  Football - Wikipedia.html: 551 time(s)
+  Premier League - Wikipedia.html: 139 time(s)
+  Arsenal F.C. - Wikipedia.html: 126 time(s)
+  FA Cup - Wikipedia.html: 104 time(s)
+  Arsène Wenger - Wikipedia.html: 95 time(s)
+  UEFA Champions League - Wikipedia.html: 59 time(s)
+  Arsenal W.F.C. - Wikipedia.html: 38 time(s)
